@@ -1,0 +1,290 @@
+
+@media screen and (max-width: 600px) {
+    .row-headline,
+    .row {
+      flex-direction: column;
+    }
+  
+    .headline figcaption {
+      top: 100;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  
+    .headline figcaption p {
+      font-size: 12px;
+    }
+  
+    .headline figcaption h3 {
+      font-size: 14px;
+    }
+  
+    .content {
+      display: block;
+    }
+  
+    .post {
+      display: flex;
+    }
+  
+    .post-thumbnail {
+      width: 120px;
+      height: 100%;
+      margin: 0px 10px 0 0;
+      padding: 0;
+    }
+  
+    .post-title {
+      font-size: 14px;
+    }
+  
+    .nav.responsive {
+      position: relative;
+    }
+    .nav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .nav.responsive .nav-brand {
+      float: none;
+      display: inline-flex;
+      text-align: left;
+    }
+  
+    .nav.responsive .nav-link {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .nav a:not(.nav-brand) {
+      display: none;
+    }
+    .nav a.icon {
+      float: right;
+      display: block;
+    }
+    .nav-menu {
+      float: none;
+    }
+  
+    .nav-brand {
+      display: inline-flex;
+    }
+  }
+  
+  @media screen and (max-width: 700px) and (min-width: 601px) {
+    .row-headline,
+    .row {
+      flex-direction: column;
+    }
+  
+    .headline figcaption {
+      top: 100;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  
+    .headline figcaption p {
+      font-size: 12px;
+    }
+  
+    .headline figcaption h3 {
+      font-size: 14px;
+    }
+  
+    .content {
+      display: block;
+    }
+  
+    .post {
+      display: flex;
+    }
+  
+    .post-thumbnail {
+      width: 120px;
+      height: 100%;
+      margin: 0px 10px 0 0;
+      padding: 0;
+    }
+  
+    .post-title {
+      font-size: 14px;
+    }
+  
+    .nav.responsive {
+      position: relative;
+    }
+    .nav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .nav.responsive .nav-brand {
+      float: none;
+      display: inline-flex;
+      text-align: left;
+    }
+  
+    .nav.responsive .nav-link {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .nav a:not(.nav-brand) {
+      display: none;
+    }
+    .nav a.icon {
+      float: right;
+      display: block;
+    }
+    .nav-menu {
+      float: none;
+    }
+  
+    .nav-brand {
+      display: inline-flex;
+    }
+  
+    .nav a.nav-brand {
+      color: rgb(194, 0, 0);
+    }
+  }
+  
+  @media screen and (max-width: 900px) and (min-width: 701px) {
+    .row-headline,
+    .row {
+      flex-direction: column;
+    }
+  
+    .headline figcaption {
+      top: 100;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  
+    .headline figcaption p {
+      font-size: 12px;
+    }
+  
+    .headline figcaption h3 {
+      font-size: 14px;
+    }
+  
+    .content {
+      display: block;
+    }
+  
+    .post {
+      display: flex;
+    }
+  
+    .post-thumbnail {
+      width: 120px;
+      height: 100%;
+      margin: 0px 10px 0 0;
+      padding: 0;
+    }
+  
+    .post-title {
+      font-size: 14px;
+    }
+  
+    .nav.responsive {
+      position: relative;
+    }
+    .nav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .nav.responsive .nav-brand {
+      float: none;
+      display: inline-flex;
+      text-align: left;
+    }
+  
+    .nav.responsive .nav-link {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .nav a:not(.nav-brand) {
+      display: none;
+    }
+    .nav a.icon {
+      float: right;
+      display: block;
+    }
+    .nav-menu {
+      float: none;
+    }
+  
+    .nav-brand {
+      display: inline-flex;
+    }
+  }
+  
+  @media screen and (max-width: 1100px) and (min-width: 901px) {
+    .headline figcaption {
+      top: 100;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+  
+    .headline figcaption p {
+      font-size: 12px;
+    }
+  
+    .headline figcaption h3 {
+      font-size: 14px;
+    }
+  
+    .post {
+      flex: 300px;
+    }
+  
+    .nav.responsive {
+      position: relative;
+    }
+    .nav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .nav.responsive .nav-brand {
+      float: none;
+      display: inline-flex;
+      text-align: left;
+    }
+  
+    .nav.responsive .nav-link {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    .nav a:not(.nav-brand) {
+      display: none;
+    }
+    .nav a.icon {
+      float: right;
+      display: block;
+    }
+    .nav-menu {
+      float: none;
+    }
+  
+    .nav-brand {
+      display: inline-flex;
+    }
+    
+  }
+  
