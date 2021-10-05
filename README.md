@@ -2,4 +2,4 @@
 Responsive HTML Template
 
 ## Demo
-[MaxNews HTML Template](https://zamanet.github.io/MaxNews-HTML-Template/)
+[MaxNews HTML Template](https://bagusmaulana06.github.io/MaxNews-HTML-Template/)
